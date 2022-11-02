@@ -5,3 +5,9 @@ learn pytorch
 
 1. VGG
 2. LeNet
+3. AlexNet
+4. KNN
+5. 
+
+DA 蜻蜓算法
+BDA 二进制蜻蜓算法
