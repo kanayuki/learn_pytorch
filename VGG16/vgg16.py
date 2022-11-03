@@ -69,5 +69,5 @@ if __name__ == '__main__':
     # summary(model, (3, 224, 224))
     #
 
-    vgg16 = torchvision.models.vgg16().cuda()
+    vgg16 = torchvision.models.ResNet  ().cuda()
     summary(vgg16, (3, 224, 224))
